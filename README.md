@@ -1,5 +1,6 @@
 <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/ee344332-d157-4c2d-81b1-2adf18ba76dd" style="width=100%">
-<br>
+
+
 
 <div style="display: flex; flex-direction: row;" align=center >
   <a href="https://fatimabasharat.netlify.app/" target="_blank">
@@ -12,6 +13,8 @@
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=RESUME&color=AD9D90"/>
   </a>
 </div>
+
+
 
 I'm a student at the University of Central Florida who discovered a passion and love for Web Development and problem solving. I am motivated by the power of technology as a tool for positive change.
 
