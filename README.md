@@ -7,6 +7,9 @@
   <a href="www.linkedin.com/in/fatima-basharat-00a7381bb" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
+  <a href="https://github.com/fatima-basharat/fatima-basharat/files/11525100/Fatima.Basharat.Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=RESUME&color=AD9D90"/>
+  </a>
 </div>
 
 I'm a student at the University of Central Florida who discovered a passion and love for Web Development and problem solving. I am motivated by the power of technology as a tool for positive change.
