@@ -1,5 +1,5 @@
 <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/ee344332-d157-4c2d-81b1-2adf18ba76dd" style="width=100%">
-</ br>
+<br>
 
 <div style="display: flex; flex-direction: row;" align=center >
   <a href="https://fatimabasharat.netlify.app/" target="_blank">
