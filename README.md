@@ -59,7 +59,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">https://fatimabasharat.netlify.app/</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://fatimabasharat.netlify.app/">
           <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/9c895545-cc3c-4897-9403-74b6757b63b9" width="100%" alt="portfolio"/>
