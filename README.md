@@ -79,6 +79,8 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
 </table>
 
 
+<h1 align="center">Languages and Tools</h1>
+
 <p align="center">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=white&labelColor=AD9D90&label=&message=HTML&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=white&labelColor=AD9D90&label=&message=CSS&color=AD9D90"/>
@@ -90,14 +92,9 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=white&labelColor=AD9D90&label=&message=NODE&color=AD9D90"/>
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
-
 
 <p align="center">
   <a href="https://fatimabasharat.netlify.app/" target="_blank">
