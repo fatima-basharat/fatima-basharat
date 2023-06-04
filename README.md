@@ -54,7 +54,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
         <p align="center">   
           
   <a href="https://github.com/fatima-basharat/Menu-Tracker.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=AD9D90f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://menu-app-uwjg.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
