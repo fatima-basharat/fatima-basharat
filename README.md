@@ -82,9 +82,6 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-  </tr>
-
-<tr>
     <td width="50%" valign="top">
       <h3 align="center">Candy Store</h3>
       <br />
