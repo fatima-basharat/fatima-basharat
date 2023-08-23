@@ -66,21 +66,21 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">Air-Quality-App</h3>
       <br />
         <a target="_blank" href="https://fatimabasharat.netlify.app/">
-          <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/9c895545-cc3c-4897-9403-74b6757b63b9" width="100%" alt="portfolio"/>
+          <img width="100%" alt="airquality" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/b4c95d12-7c23-45a3-b6d0-068ddffb8f23">
       </a>
       <br />
         <p align="center">
-  <a href="https://github.com/fatima-basharat/Portfolio-Site.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/Air-Quality-App.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://fatimabasharat.netlify.app/" target="_blank">
+  <a href="https://air-quality-checker-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>React, Bootstrap</strong> - A web app allowing users to check air quality levels of any city.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Candy Store</h3>
