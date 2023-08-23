@@ -27,22 +27,22 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coolpix</h3>
+      <h3 align="center">CatBook</h3>
         <br />
-        <a target="_blank" href="https://coolpix.onrender.com/">
-            <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/88bcb88f-8688-47a4-849c-68078c8670b9" alt="coolpix-pic" width="100%"/>
+        <a target="_blank" href="https://catbook-xxi5.onrender.com">
+          <img width="100%" alt="catbook" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/29d008ba-f338-45ac-9840-167b9e5b0fa1">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/fatima-basharat/Coolpix.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/catbook.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://coolpix.onrender.com/" target="_blank">
+  <a href="https://catbook-xxi5.onrender.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - Coolpix is a full stack CRUD web app created for individuals to share their favorite photos with friends and family!</p>
+        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web app created for individuals to share posts about their cats with friends and family!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Menu-Tracker</h3>
