@@ -80,7 +80,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Bootstrap</strong> - A web app allowing users to check air quality levels of any city.</p>
+        <p><strong>React, Bootstrap</strong> - A web application implementing the aqicn API that allows users to check air quality levels of any city.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Candy Store</h3>
