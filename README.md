@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/fatima-basharat-00a7381bb" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
-  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12433708/Fatima.Basharat.Resume.pdf" target="_blank">
+  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12439542/Fatima.Basharat.Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=RESUME&color=AD9D90"/>
   </a>
 </div>
@@ -42,7 +42,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web app created for individuals to share posts about their cats with friends and family!</p>
+        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web application designed to facilitate connections between users through photo sharing!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Menu-Tracker</h3>
@@ -60,7 +60,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - This Menu-Tracker is a full stack CRUD web app that allows users to keep all their favorite restaurant menus in one place.</p>
+        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - This Menu-Tracker is a full stack CRUD web application that allows users to conveniently compile and manage their preferred restaurant menus.</p>
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Bootstrap</strong> - A web application implementing the aqicn API that allows users to check air quality levels of any city.</p>
+        <p><strong>React, Bootstrap</strong> - Used the aqicn API to create a web application that checks air quality levels of any city.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Candy Store</h3>
