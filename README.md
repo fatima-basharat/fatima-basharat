@@ -100,6 +100,23 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
         <p><strong>React, TypeScript, & Bootstrap</strong> - A candy store landing page created to learn more about Typescript and React.</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ReactJeopardy</h3>
+      <br />
+        <a target="_blank" href="https://github.com/fatima-basharat/ReactJeopardy.git">
+          <img width="100%" alt="airquality" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/a4d0fed7-5aa1-4e0c-a699-3e40759f5ad0">
+      </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/fatima-basharat/ReactJeopardy.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Vite</strong> - Created a fun game of Jeopardy using the JService API.</p>
+    </td>
+  </tr> 
   
 </table>
 
