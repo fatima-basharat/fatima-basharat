@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/fatima-basharat-00a7381bb" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
-  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12439542/Fatima.Basharat.Resume.pdf" target="_blank">
+  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12488535/Fatima.Basharat.Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=RESUME&color=AD9D90"/>
   </a>
 </div>
@@ -145,7 +145,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   <a href="https://www.linkedin.com/in/fatima-basharat-00a7381bb" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
-  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12433708/Fatima.Basharat.Resume.pdf" target="_blank">
+  <a href="https://github.com/fatima-basharat/fatima-basharat/files/12488535/Fatima.Basharat.Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=RESUME&color=AD9D90"/>
   </a>
 </p>
