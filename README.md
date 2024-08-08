@@ -27,7 +27,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
       <h3 align="center">Cyclistic Case Study</h3>
         <br />
         <a target="_blank" href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project">
-          <img width="100%" alt="catbook" src="https://github.com/user-attachments/assets/34cf029b-ba1a-4a6f-ab2f-9054b744b4a5">
+          <img width="100%" alt="case study" src="https://github.com/user-attachments/assets/34cf029b-ba1a-4a6f-ab2f-9054b744b4a5">
         </a>
         <br />
         <p align="center">
