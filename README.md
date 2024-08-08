@@ -24,22 +24,22 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CatBook</h3>
+      <h3 align="center">Cyclistic Case Study</h3>
         <br />
-        <a target="_blank" href="https://catbook-xxi5.onrender.com">
-          <img width="100%" alt="catbook" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/29d008ba-f338-45ac-9840-167b9e5b0fa1">
+        <a target="_blank" href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project">
+          <img width="100%" alt="catbook" src="https://github.com/user-attachments/assets/34cf029b-ba1a-4a6f-ab2f-9054b744b4a5">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/fatima-basharat/catbook.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://catbook-xxi5.onrender.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://public.tableau.com/shared/K9ZBTK97B?:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TABLEAU&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web application designed to facilitate connections between users through photo sharing!</p>
+        <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Menu-Tracker</h3>
@@ -79,23 +79,25 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
       </p>
         <p><strong>React, Bootstrap</strong> - Used the aqicn API to create a web application that checks air quality levels of any city.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Candy Store</h3>
-      <br />
-        <a target="_blank" href="https://candy-store-page.netlify.app/">
-          <img src="https://github.com/fatima-basharat/Candy-Store/assets/117535181/cf2bc1bb-6129-48f7-9567-e1fa22e2f5e0" width="100%" alt="candystore"/>
-      </a>
-      <br />
+     <td width="50%" valign="top">
+      <h3 align="center">CatBook</h3>
+        <br />
+        <a target="_blank" href="https://catbook-xxi5.onrender.com">
+          <img width="100%" alt="catbook" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/29d008ba-f338-45ac-9840-167b9e5b0fa1">
+        </a>
+        <br />
         <p align="center">
-  <a href="https://github.com/fatima-basharat/Candy-Store" target="_blank">
+          
+  <a href="https://github.com/fatima-basharat/catbook.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://candy-store-page.netlify.app/" target="_blank">
+  </a>  
+  <a href="https://catbook-xxi5.onrender.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, TypeScript, & Bootstrap</strong> - A candy store landing page created to learn more about Typescript and React.</p>
+        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web application designed to facilitate connections between users through photo sharing!</p>
     </td>
+    <td width="50%" valign="top">
   </tr>
 
   <tr>
