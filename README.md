@@ -27,7 +27,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
       <h3 align="center">Cyclistic Case Study</h3>
         <br />
         <a target="_blank" href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project">
-          <img width="100%" alt="case study" src="https://github.com/user-attachments/assets/34cf029b-ba1a-4a6f-ab2f-9054b744b4a5">
+          <img width="100%" alt="case study" src="https://github.com/user-attachments/assets/31c90da3-b7fa-4d4c-907e-abf602a8d001">
         </a>
         <br />
         <p align="center">
@@ -35,7 +35,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   <a href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://public.tableau.com/shared/K9ZBTK97B?:display_count=n&:origin=viz_share_link" target="_blank">
+  <a href="https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TABLEAU&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
