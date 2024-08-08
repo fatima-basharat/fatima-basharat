@@ -122,10 +122,13 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
 <h1 align="center">Languages and Tools</h1>
 
 <p align="center">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=TABLEAU&logoColor=white&labelColor=AD9D90&label=&message=TABLEAU&color=AD9D90"/>
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=POWERBI&logoColor=white&labelColor=AD9D90&label=&message=POWERBI&color=AD9D90"/>
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=R&logoColor=white&labelColor=AD9D90&label=&message=R&color=AD9D90"/>
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=mySQL&logoColor=white&labelColor=AD9D90&label=&message=SQL&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=white&labelColor=AD9D90&label=&message=HTML&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=white&labelColor=AD9D90&label=&message=CSS&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=white&labelColor=AD9D90&label=&message=JAVASCRIPT&color=AD9D90"/>
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=white&labelColor=AD9D90&label=&message=BOOTSTRAP&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=white&labelColor=AD9D90&label=&message=REACT&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=mongodb&logoColor=white&labelColor=AD9D90&label=&message=MONGODB&color=AD9D90"/>
     <img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=white&labelColor=AD9D90&label=&message=EXPRESS&color=AD9D90"/>
