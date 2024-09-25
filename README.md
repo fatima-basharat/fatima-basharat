@@ -65,7 +65,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Layoffs-Data-Cleaning-Project</h3>
       <br />
-        <a target="_blank" href="https://fatimabasharat.netlify.app/">
+        <a target="_blank" href="https://github.com/fatima-basharat/Layoffs-Data-Cleaning-Project">
           <img width="100%" alt="datacleaning" src="https://github.com/user-attachments/assets/27aaced8-3e30-4def-acae-4c6c1550af18">
       </a>
       <br />
