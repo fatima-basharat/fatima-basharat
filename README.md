@@ -63,21 +63,18 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Air-Quality-App</h3>
+      <h3 align="center">Layoffs-Data-Cleaning-Project</h3>
       <br />
         <a target="_blank" href="https://fatimabasharat.netlify.app/">
-          <img width="100%" alt="airquality" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/b4c95d12-7c23-45a3-b6d0-068ddffb8f23">
+          <img width="100%" alt="datacleaning" src="https://github.com/user-attachments/assets/27aaced8-3e30-4def-acae-4c6c1550af18">
       </a>
       <br />
         <p align="center">
-  <a href="https://github.com/fatima-basharat/Air-Quality-App.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/Layoffs-Data-Cleaning-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://air-quality-checker-app.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>React, Bootstrap</strong> - Used the aqicn API to create a web application that checks air quality levels of any city.</p>
+        <p><strong>SQL, MySQL</strong> - Performed data cleaning on a company layoffs dataset using SQL, removing duplicates, standardizing fields, and handling null values to ensure data accuracy for analysis.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">CatBook</h3>
