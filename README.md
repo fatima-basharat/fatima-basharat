@@ -63,18 +63,18 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Layoffs-Data-Cleaning-Project</h3>
+      <h3 align="center">Layoffs Data Cleaning & Exploratory Analysis</h3>
       <br />
         <a target="_blank" href="https://github.com/fatima-basharat/Layoffs-Data-Cleaning-Project">
           <img width="100%" alt="datacleaning" src="https://github.com/user-attachments/assets/27aaced8-3e30-4def-acae-4c6c1550af18">
       </a>
       <br />
         <p align="center">
-  <a href="https://github.com/fatima-basharat/Layoffs-Data-Cleaning-Project" target="_blank">
+  <a href="https://github.com/fatima-basharat/Layoffs-Data-Cleaning-and-Exploratory-Analysis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>SQL, MySQL</strong> - Performed data cleaning on a company layoffs dataset using SQL, removing duplicates, standardizing fields, and handling null values to ensure data accuracy for analysis.</p>
+        <p><strong>SQL, MySQL</strong> - Performed data cleaning and exploratory analysis on a company layoffs dataset using SQL, removing duplicates, standardizing fields, handling null values, and analyzing key trends such as total layoffs by company, industry, and country.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">CatBook</h3>
