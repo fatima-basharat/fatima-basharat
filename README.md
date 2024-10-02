@@ -42,7 +42,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
         <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Books-Web-Scraper</h3>
+      <h3 align="center">Books Web Scraper</h3>
         <br />
         <img src="https://github.com/user-attachments/assets/1f15ac53-4712-4930-888a-e85ac4e2ee62" width="100%"  alt="webscraper"/>
         </a>
