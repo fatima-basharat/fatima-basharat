@@ -42,22 +42,18 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
         <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Menu-Tracker</h3>
+      <h3 align="center">Books-Web-Scraper</h3>
         <br />
-      <a target="_blank" href="https://menu-app-uwjg.onrender.com/">
-            <img src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/1b5a904d-8f21-4ea5-8579-c7e5d6166d28" width="100%"  alt="menutracker"/>
+        <img src="https://github.com/user-attachments/assets/1f15ac53-4712-4930-888a-e85ac4e2ee62" width="100%"  alt="webscraper"/>
         </a>
         <br />
         <p align="center">   
           
-  <a href="https://github.com/fatima-basharat/Menu-Tracker.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/Books-Web-Scraper-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://menu-app-uwjg.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - This Menu-Tracker is a full stack CRUD web application that allows users to conveniently compile and manage their preferred restaurant menus.</p>
+        <p><strong>Python, BeautifulSoup, Requests, Pandas</strong> – This project is a web scraping application that extracts book titles, prices, and star ratings from the Books to Scrape website and stores the data in a CSV file for further analysis.</p>
     </td>
   </tr>
   
