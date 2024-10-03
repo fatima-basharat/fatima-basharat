@@ -87,7 +87,7 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
       </p>
         <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
     </td>
-    <td width="50%" valign="top">
+  
   </tr>  
 </table>
 
