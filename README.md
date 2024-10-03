@@ -24,22 +24,19 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cyclistic Case Study</h3>
+      <h3 align="center">Movie Correlation Project</h3>
         <br />
-        <a target="_blank" href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project">
-          <img width="100%" alt="case study" src="https://github.com/user-attachments/assets/f95c5afe-1510-4635-9e09-95b677d06c60">
+        <a target="_blank" href="https://github.com/fatima-basharat/Movie-Correlation-Project">
+          <img width="100%" alt="movies" src="https://github.com/user-attachments/assets/53c5f588-724b-4a12-b1bb-51f4f291ef6e">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project" target="_blank">
+  <a href="https://github.com/fatima-basharat/Movie-Correlation-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TABLEAU&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
+        <p><strong>Python, Pandas, NumPy, Seaborn, Matplotlip</strong> - Developed a movie correlation analysis project using Python to explore relationships between various movie features, including budget and gross earnings.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Books Web Scraper</h3>
@@ -73,42 +70,25 @@ See [my website](https://fatimabasharat.netlify.app/) for more information!
         <p><strong>SQL, MySQL</strong> - Performed data cleaning and exploratory analysis on a company layoffs dataset using SQL, removing duplicates, standardizing fields, handling null values, and analyzing key trends such as total layoffs by company, industry, and country.</p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">CatBook</h3>
+      <h3 align="center">Cyclistic Case Study</h3>
         <br />
-        <a target="_blank" href="https://catbook-xxi5.onrender.com">
-          <img width="100%" alt="catbook" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/29d008ba-f338-45ac-9840-167b9e5b0fa1">
+        <a target="_blank" href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project">
+          <img width="100%" alt="case study" src="https://github.com/user-attachments/assets/f95c5afe-1510-4635-9e09-95b677d06c60">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/fatima-basharat/catbook.git" target="_blank">
+  <a href="https://github.com/fatima-basharat/Google-Data-Analytics-Capstone-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://catbook-xxi5.onrender.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://public.tableau.com/views/CyclisticProject_17230548837230/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TABLEAU&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB</strong> - CatBook is a full stack CRUD web application designed to facilitate connections between users through photo sharing!</p>
+        <p><strong>R, Tableau</strong> - The Cyclistic case study is an in-depth analysis of bike-sharing data using R and Tableau, aimed at uncovering insights and driving strategic decisions to convert casual riders into annual members.</p>
     </td>
     <td width="50%" valign="top">
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ReactJeopardy</h3>
-      <br />
-        <a target="_blank" href="https://github.com/fatima-basharat/ReactJeopardy.git">
-          <img width="100%" alt="airquality" src="https://github.com/fatima-basharat/fatima-basharat/assets/117535181/a4d0fed7-5aa1-4e0c-a699-3e40759f5ad0">
-      </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/fatima-basharat/ReactJeopardy.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Vite</strong> - Created a fun game of Jeopardy using the JService API.</p>
-    </td>
-  </tr> 
-  
+  </tr>  
 </table>
 
 
