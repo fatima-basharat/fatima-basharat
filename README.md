@@ -13,7 +13,7 @@
 
 
 
-Hi! I'm an IT graduate the University of Central Florida, motivated by the power of technology as a tool for positive change.
+Hi! I'm an IT graduate from the University of Central Florida, motivated by the power of technology as a tool for positive change.
 
 See [my website](https://fatimabasharat.netlify.app/) for more information! 
 
